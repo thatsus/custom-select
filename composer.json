@@ -1,0 +1,9 @@
+{
+    "name": "thatsus/custom-select",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/thatsus/custom-select.git"
+        }
+    ]
+}
